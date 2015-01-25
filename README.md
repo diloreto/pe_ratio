@@ -1,2 +1,5 @@
-# pe_ratio
-Calculation of Price-Earnings Ratios of all 32 NFL Teams
+# nfl_rroi
+Relative Return on Investment
+
+# Copyright 2015 Tony DiLoreto
+# https://www.tonydiloreto.com
